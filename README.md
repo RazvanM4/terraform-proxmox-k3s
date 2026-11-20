@@ -9,7 +9,7 @@ Terraform module for provisioning a high-availability **k3s** control-plane and 
 
 ```hcl
 module "k3s_cluster" {
-  source  = "RazvanApps/k3s/proxmox"
+  source  = "RazvanM4/k3s/proxmox"
   version = "~> 1.0"
 
   cluster_name   = "homelab-ha"
