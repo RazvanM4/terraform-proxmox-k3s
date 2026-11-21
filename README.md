@@ -3,7 +3,7 @@
 Terraform module for provisioning a high-availability **k3s** control-plane and worker topology on **Proxmox VE** (`bpg/proxmox`), emitting a ready-to-run Ansible inventory.
 
 - Full blueprint with Ansible Galaxy collection & Argo CD bootstrap: [`RazvanM4/k3s-proxmox-terraform-ansible`](https://github.com/RazvanM4/k3s-proxmox-terraform-ansible)
-- Architecture guide: [Provision k3s with Terraform and Ansible: A Repeatable Cluster Blueprint](https://razvanmares.ro/en/blog/provision-k3s-with-terraform-and-ansible-a-repeatable-cluster-blueprint)
+- Architecture guide: [Provision k3s with Terraform and Ansible: A Repeatable Cluster Blueprint](https://razvanmares.com/blog/provision-k3s-with-terraform-and-ansible-a-repeatable-cluster-blueprint)
 
 ## Usage
 
